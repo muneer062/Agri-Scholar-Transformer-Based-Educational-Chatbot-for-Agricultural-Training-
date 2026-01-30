@@ -1,0 +1,1 @@
+AgriEduBot: a Transformer-based intent classification chatbot for agricultural education. Includes data preprocessing, train/validation/test pipelines, and a CLI chatbot that answers common farmer FAQs on crop management, fertilizers, irrigation, and pest control, aligned with SDG 2 (Zero Hunger).
