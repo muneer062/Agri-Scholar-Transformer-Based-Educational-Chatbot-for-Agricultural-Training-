@@ -1,0 +1,20 @@
+text,label
+How much urea should I use for wheat per acre?,fertilizer_wheat
+What is the best way to control pests in rice?,pest_control_rice
+How often should I irrigate my maize crop?,irrigation_maize
+What fertilizer is recommended for paddy?,fertilizer_rice
+How can I prevent fungal disease in wheat?,disease_control_wheat
+When should I water tomatoes in summer?,irrigation_vegetables
+How to control insects in cotton crop?,pest_control_cotton
+Recommended fertilizer dose for rice?,fertilizer_rice
+How much water does wheat need in winter?,irrigation_wheat
+What is the best pesticide for maize worms?,pest_control_maize
+What is the recommended fertilizer for wheat crops?,fertilizer_wheat
+How do I control pests in my rice field?,pest_control_rice
+When should maize be irrigated?,irrigation_maize
+What fertilizer should I use for rice?,fertilizer_rice
+Fungicide for wheat disease prevention?,disease_control_wheat
+Irrigation frequency for tomatoes in hot weather?,irrigation_vegetables
+Best insecticides for cotton?,pest_control_cotton
+How much water is needed for winter wheat?,irrigation_wheat
+Controlling worms in maize crops?,pest_control_maize
